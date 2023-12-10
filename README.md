@@ -19,7 +19,7 @@ $ npm run start:dev
 Получение конкретной книги: GET http://localhost:3000/books/1
 Поиск по автору либо по названию: GET http://localhost:3000/books/filter?keyword=Понасенков
 Удаление книги: DELETE http://localhost:3000/books/1
-Создание книги: POST http://localhost:3000/books/1
+Создание книги: POST http://localhost:3000/books
 
 Схема для создания книги
 
